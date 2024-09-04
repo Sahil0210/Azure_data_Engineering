@@ -1,0 +1,9 @@
+{
+	"name": "f1ssddatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8015b08-1f34-41f5-a83d-80bd09b622ba",
+		"tenantId": "3ffb9f49-8d00-496c-a65b-026864b0faa4"
+	}
+}
